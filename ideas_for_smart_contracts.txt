@@ -1,0 +1,15 @@
+Storage
+Voting -> Ballot -> Election
+Identity
+Lottery
+Auction
+Prediction Market
+Vending Machine
+DAO
+ERC20 - Fungible Token
+ERC721 - NFT
+Airdrop
+Crowdfunding
+Time Lock
+Escrow
+DEX
